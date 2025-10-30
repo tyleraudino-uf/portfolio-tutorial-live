@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-tutorial-live/static/css/main.f855e6bc.css",
+    "main.js": "/portfolio-tutorial-live/static/js/main.86fc3adb.js",
+    "static/js/453.6264690d.chunk.js": "/portfolio-tutorial-live/static/js/453.6264690d.chunk.js",
+    "static/media/logo.svg": "/portfolio-tutorial-live/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio-tutorial-live/index.html",
+    "main.f855e6bc.css.map": "/portfolio-tutorial-live/static/css/main.f855e6bc.css.map",
+    "main.86fc3adb.js.map": "/portfolio-tutorial-live/static/js/main.86fc3adb.js.map",
+    "453.6264690d.chunk.js.map": "/portfolio-tutorial-live/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.86fc3adb.js"
+  ]
+}
