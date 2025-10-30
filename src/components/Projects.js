@@ -2,7 +2,7 @@ import ProjectCard from "./ProjectCard";
 
 function Projects() {
   return (
-    <div className="conatiner-fluid bg-primary ">
+    <div className="conatiner-fluid bg-secondary">
         <div className="row text-white p-4">
       <h2>Projects</h2>
       <p>Here are some of my recent projects.</p>
